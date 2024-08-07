@@ -1,4 +1,4 @@
-Custom chatbot 
+**Custom chatbot** 
 
 Here's a concise, pointwise description of your custom chatbot project utilizing the specified technologies:
 
@@ -17,3 +17,13 @@ Here's a concise, pointwise description of your custom chatbot project utilizing
 
 
 <img width="826" alt="image" src="https://github.com/user-attachments/assets/b019945b-28be-49ce-9a3d-7323e44f58fe">
+
+**Configurations in application.property file**
+
+chatgpt.key = #key
+
+astra.astraToken = #token
+
+astra.databaseId = #id
+
+astra.keySpace = #keyspace-id
