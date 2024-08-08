@@ -78,6 +78,7 @@
     </dependencies>
 
     <build>
+        <finalName>nimsara_portfolio_bot</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
