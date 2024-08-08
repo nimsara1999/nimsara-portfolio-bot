@@ -1,5 +1,11 @@
 **Custom chatbot** 
 
+-
+
+https://github.com/user-attachments/assets/8aba1fff-d9d3-4de6-b661-ff0dd2f458d7
+
+-
+
 Here's a concise, pointwise description of your custom chatbot project utilizing the specified technologies:
 
   1. Spring Boot: Utilized as the core framework to create standalone, production-grade applications quickly with minimal configuration.
@@ -16,9 +22,10 @@ Here's a concise, pointwise description of your custom chatbot project utilizing
 
 
 
+
 <img width="826" alt="image" src="https://github.com/user-attachments/assets/b019945b-28be-49ce-9a3d-7323e44f58fe">
 
-.
+-
 
 **Configurations in application.property file**
 
@@ -30,7 +37,7 @@ astra.databaseId = #id
 
 astra.keySpace = #keyspace-id
 
-.
+-
 
 **Testing**
 
